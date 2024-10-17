@@ -33,7 +33,7 @@ Goals
     │   └── NLP.ipynb
     └── streamlit
         └── app.py
-``
+```
 
  - /doc/presentation_diapo.pdf  -->  slideshow presentation of our project.
  - /src/notebook/NLP.ipynb      -->  contains the core implementation of the project, focusing on data preprocessing, model training, and evaluation using NLP techniques. It provides a detailed step-by-step workflow, from dataset preparation to final results.
